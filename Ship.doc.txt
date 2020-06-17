@@ -1,0 +1,11 @@
+<- Ship ----------------------------------------------------------------------
+The Ship class handles the all stuff about the ships. There are some private
+variables which describe the boats. A the same time class invoke a bit of methods
+move, rotate, shoot, put_on_map. 
+A move method provides the data for going ships on the map.
+A rotate method allows to reverse the direction and switch the side of going.
+A shoot method as u understand mean to fire by the ship that means control
+the direction of the shoot and length.
+The last metod follows the location on the map allow to set up the size and 
+to configure the color of the boats.
+---------------------------------------------------------------------- Ship ->

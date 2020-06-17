@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+}
+
+.table {
+	font-family: monospace;
+	font-size: 9px;
+	height: 750px;
+	padding-top: 25px;
+	display: inline-block;
+	margin: 0 auto;
+	line-height: 10px;
+}
+
+.row {
+	height: 1%; 
+	background-color: #d6d4d4;
+}
+
+.controler {
+	display: block;
+	width: 100%;
+}
+.choose_ship {
+	display: inline-block;
+	margin: 15px;
+	background-color: lightblue;
+}
+	
+.special {
+	text-align: center;
+	display: inline-block;
+	width: 0.667%;
+}
+
+.slogan {
+	margin-top: 20px;
+	border: 1px dotted red;
+}

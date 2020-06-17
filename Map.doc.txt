@@ -1,0 +1,5 @@
+<- Map ----------------------------------------------------------------------
+The Map class handles the information about the game's map.
+Map class contains the data about the size of the field, color.
+The fire's space is constructed in this class depends on constant values.
+---------------------------------------------------------------------- Map ->

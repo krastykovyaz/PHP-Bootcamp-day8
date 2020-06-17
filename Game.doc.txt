@@ -1,0 +1,12 @@
+<- Game ----------------------------------------------------------------------
+The Game class handles the gameplay. The main aim of the class is to set up all classes 
+in the game for the starting a tournament.
+There are some methods save, create_new_game,handle_events, controller and map. 
+Save method saves the information about the game to the file. 
+Method create new game collect data about the ship's creating and relate 
+the ships with coalitions. This method allow to set the boats. The next one is handle evets.
+The method contains information about the moves which rely on post requests. 
+The show_map method invites the databout a location of activities on the map.
+The show_controllers invoke the panel of game controlling whick contains some buttoms 
+New game, rotate, go, shoot.
+---------------------------------------------------------------------- Game ->
